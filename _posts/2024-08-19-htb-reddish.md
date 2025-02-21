@@ -1,7 +1,7 @@
 ---
 title: Hackthebox - Reddish
 description: writeup of the HTB machine Reddish. Lots of pivoting involved
-author: rxffsec
+author: wxrdcn
 date: 2024-08-19 06:06:06 -0600
 categories:
   - CTF

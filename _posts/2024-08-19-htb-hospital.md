@@ -1,7 +1,7 @@
 ---
 title: Hackthebox - Hospital
 description: writeup of the HTB machine Hospital.
-author: rxffsec
+author: wxrdcn
 date: 2024-08-19 06:15:00 -0600
 categories:
   - CTF

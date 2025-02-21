@@ -1,7 +1,7 @@
 ---
 title: Hackthebox - Bastard
 description: writeup of the HTB machine Bastard.
-author: rxffsec
+author: wxrdcn
 date: 2024-08-20 06:25:00 -0600
 categories:
   - CTF

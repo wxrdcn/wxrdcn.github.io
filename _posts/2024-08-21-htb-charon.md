@@ -1,7 +1,7 @@
 ---
 title: Hackthebox - Charon
 description: writeup of the HTB machine Charon
-author: rxffsec
+author: wxrdcn
 date: 2024-08-21 11:20:00 -0600
 categories:
   - CTF
